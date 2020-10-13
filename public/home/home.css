@@ -1,0 +1,10 @@
+#e {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    user-select: none;
+    cursor: pointer;
+
+    transform: translate(-50%, -50%);
+}
